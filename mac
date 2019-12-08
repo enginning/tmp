@@ -1,0 +1,20 @@
+安装任何来源
+sys-隐私-通用，若无选项，则sudo spctl --master-disable
+
+Xcode - install Command Line Tools
+https://stackoverflow.com/questions/9329243/xcode-install-command-line-tools        //各版本的包下载
+
+zsh相关{
+    git clone https://github.com/zsh-users/zsh-history-substring-search ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-history-substring-search
+    incr https://www.xinkoukaihe.com/a/336.html
+    fzf安装 ctrl + r 绑定
+}
+
+homebrew{
+    //java common step
+    brew tap homebrew/cask-versions
+    //install specified version java
+    brew cask install java8
+    //install latest java
+    brew cask install java
+}
