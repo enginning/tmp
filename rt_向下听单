@@ -1,0 +1,11 @@
+// correct format
+./table_cmd -s="127.0.0.1:11311" -t="gizzle_public" -c="mset OPEN_PLATFORM_FLOW_CNT_414_1_1 target_count {\"target\":[1,2,3,4,5,6,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,1]}"
+./table_cmd -s="127.0.0.1:11311" -t="gizzle_public" -c="mset OPEN_PLATFORM_FLOW_CNT_412_1_1 target_count {\"target\":[1,2,3,4,5,6,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,1]}"
+./table_cmd -s="127.0.0.1:11311" -t="gizzle_public" -c="mset OPEN_PLATFORM_FLOW_CNT_414_3_1 target_count {\"target\":[1,2,3,4,5,6,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,1]}"
+./table_cmd -s="127.0.0.1:11311" -t="gizzle_public" -c="mset OPEN_PLATFORM_FLOW_CNT_412_3_1 target_count {\"target\":[1,2,3,4,5,6,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,1]}"
+
+
+./table_cmd -s="127.0.0.1:11311" -t="gizzle_public" -c="mset OPEN_PLATFORM_FLOW_CNT_414_3_20191211 flow_count_statistic {\"data\":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0],\"update_time\":1569487409}"
+./table_cmd -s="127.0.0.1:11311" -t="gizzle_public" -c="mset OPEN_PLATFORM_FLOW_CNT_412_3_20191211 flow_count_statistic {\"data\":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0],\"update_time\":1569487409}"
+./table_cmd -s="127.0.0.1:11311" -t="gizzle_public" -c="mset OPEN_PLATFORM_FLOW_CNT_412_1_20191211 flow_count_statistic {\"data\":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0],\"update_time\":1569487409}"
+./table_cmd -s="127.0.0.1:11311" -t="gizzle_public" -c="mset OPEN_PLATFORM_FLOW_CNT_414_1_20191211 flow_count_statistic {\"data\":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0],\"update_time\":1569487409}"
