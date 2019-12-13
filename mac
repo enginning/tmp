@@ -20,3 +20,8 @@ homebrew{
     // install java [useful]
     brew cask install homebrew/cask-versions/adoptopenjdk8
 }
+
+setting{
+    键盘: 按键的重复，重复前延迟拖到最大(光标移动速度)
+    辅助功能->鼠标与触控板->触控板选项->勾选启用拖移->三指拖移
+}
